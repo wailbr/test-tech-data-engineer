@@ -12,6 +12,9 @@ Il s’agit d’un vrai projet Data Engineer regroupant :
 ✔ Dockerisation complète
 
 📌 1. Architecture du projet
+
+
+
 nlp-toxicity-pipeline/
 │
 ├── scraping/           → Récupération des articles (BeautifulSoup)
